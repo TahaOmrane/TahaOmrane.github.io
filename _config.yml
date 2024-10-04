@@ -1,8 +1,17 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
-
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+title: Nachbarsharing
+remote_theme: just-the-docs/just-the-docs
+mermaid:
+  version: "10.9.0" # Pick version from https://cdn.jsdelivr.net/npm/mermaid/
+callouts:
+  tip:
+    title: 🤍 Tip
+    color: purple
+  info:
+    title: ℹ️ Info
+    color: blue
+  attention:
+    title: ❕ Attention
+    color: yellow
+  download:
+    title: 💾 Download
+    color: grey-dk
