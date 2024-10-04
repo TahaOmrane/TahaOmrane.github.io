@@ -53,7 +53,3 @@ Implementierung der Kernfunktionalität der Anwendung. Python wird verwendet, um
 ## Flask WTForms (Formularvalidierung im Backend):
 
 Serverseitige Validierung der Formulardaten. Stellt sicher, dass die Daten korrekt und sicher sind, bevor sie verarbeitet oder in die Datenbank gespeichert werden.
-
-## Firebase (Datenbankinteraktionen):
-
-Echtzeit-Datenbank und Backend-Dienste wie Authentifizierung und Realtime-Datenbank. Firebase bietet eine skalierbare Lösung für Datenbankinteraktionen und vereinfacht die Entwicklung und Verwaltung der Anwendung.
