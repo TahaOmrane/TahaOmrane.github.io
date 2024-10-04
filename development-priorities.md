@@ -1,6 +1,7 @@
 ---
 title: Entwicklungsprioritäten und MVP
 nav_order: 3
+layout: home
 ---
 
 {: .no_toc }

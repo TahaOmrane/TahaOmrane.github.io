@@ -1,6 +1,7 @@
 ---
 title: Wertversprechen
 nav_order: 1
+layout: home
 ---
 
 {: .no_toc }

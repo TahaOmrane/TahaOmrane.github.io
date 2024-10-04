@@ -1,6 +1,7 @@
 ---
 title: Quellen
 nav_order: 1
+layout: home
 ---
 
 # Quellen

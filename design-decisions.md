@@ -1,6 +1,7 @@
 ---
 title: Design Decisions
 nav_order: 3
+layout: home
 ---
 
 {: .no_toc }
